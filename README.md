@@ -1,4 +1,4 @@
-# ETL Censor Log to PostgreSQL
+# ETL webserver log to PostgreSQL
 
 This repository demonstrates an **ETL (Extract, Transform, Load)** pipeline using **Apache Airflow**. The pipeline processes web server log data, extracts relevant information, transforms the data, and loads it into a **PostgreSQL database**. This project aims to showcase how to orchestrate and automate data workflows using Airflow.
 
